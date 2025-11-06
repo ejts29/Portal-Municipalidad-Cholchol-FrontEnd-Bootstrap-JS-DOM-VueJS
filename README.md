@@ -38,7 +38,7 @@ Este proyecto es completamente estático (HTML, CSS, JS), lo que permite publica
 
  Puedes ver el resultado final haciendo clic en el siguiente enlace:
 
-[🔗 Abrir Carnet Mascotas en GitHub Pages](https://ejts29.github.io/Portal-Municipalidad-Cholchol-FrontEnd-Bootstrap-JS-DOM-VueJS/)
+[🔗 Portal Web Dinámico: Municipalidad de Cholchol](https://ejts29.github.io/Portal-Municipalidad-Cholchol-FrontEnd-Bootstrap-JS-DOM-VueJS/)
 
 
 ### Ejecución Local
