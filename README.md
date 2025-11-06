@@ -32,12 +32,14 @@
 
 Dado que este proyecto es 100% Front-End, la mejor forma de demostrar su funcionalidad es a través del servicio gratuito **GitHub Pages**.
 
-### Instrucciones de Despliegue:
+## Ejecución en Línea con GitHub Pages
 
-1.  Una vez subido el repositorio a GitHub, ve a **Settings (Configuración)**.
-2.  Haz clic en **Pages**.
-3.  Selecciona la rama **`main`** y la carpeta raíz (`/ (root)`).
-4.  Guarda. GitHub te proporcionará una URL pública para acceder a tu sitio web.
+Este proyecto es completamente estático (HTML, CSS, JS), lo que permite publicarlo fácilmente mediante el servicio gratuito y profesional **GitHub Pages**.
+
+ Puedes ver el resultado final haciendo clic en el siguiente enlace:
+
+[🔗 Abrir Carnet Mascotas en GitHub Pages](https://ejts29.github.io/Portal-Municipalidad-Cholchol-FrontEnd-Bootstrap-JS-DOM-VueJS/)
+
 
 ### Ejecución Local
 
